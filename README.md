@@ -1,5 +1,5 @@
-![alt text](image.png)
-![alt text](image-1.png)
+![Problem1_img](image.png)
+![Problem2_img](image-1.png)
 
 # Telegram Bot using `telegraph.js`
 
@@ -33,7 +33,7 @@ Follow these steps to install and set up the bot:
 
 ### 1️⃣ Clone the Repository
 ```sh
-git clone https://github.com/DEVnitishOfficial/All_Backend_Project.git
+git clone https://github.com/DEVnitishOfficial/Telegram_Bot_AI.git
 cd telegram-bot
 ```
 
