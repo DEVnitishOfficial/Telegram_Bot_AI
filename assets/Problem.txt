@@ -1,0 +1,39 @@
+Assignment : Build a Telegram Bot Using 'telegraph.js'
+
+Objective:
+The goal of this assignment is to "build a Telegram bot" using "telegraph.js" The bot should be able to : 
+1. Joke Bot - Send a random joke when prompted
+2. Algorithm Bot - Take the name of an algorithm (e.g.,"Bubble Sort","Merger Sort","Quick Sort") and returns it's code in javascript implementation.
+
+You are free to choose either option or come up with a unique idea for your bot.
+
+Prerequisites:
+Before starting, ensure you have:
+→ Node.js 
+→ An NPM account
+→ A telegram bot token, which you can get by messaging "BotFather" on Telegram.
+
+Requirements
+1. Set up a Node.js Project
+ → Initilize a new Node.js project
+ → Install telegraph.js and any other dependencies you need.
+
+2. Implement Core Features
+ → Create a bot that listens for specific commands
+ → Your bot should handle at least:
+   • /start - Provide a welcome message
+   • /joke - Send a random joke
+   • /algorithm <name> - Return the code for the requested algorithem
+ → Ensure the bot correctly processes user messages.
+
+3. Run and Test Your Bot
+   • Run the bot locally
+   • Test intereactions with your bot on Telegram.
+
+4. Enhancements.
+
+   • Add more features, such as:
+      → Fetching jokes from an API.
+      → Storing algorithms in a database or JSON file.
+      → Implement error handling for unrecognized commands.
+      → Formatting messages using Telegram's Markdown or HTML support
